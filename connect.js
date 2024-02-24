@@ -1,12 +1,17 @@
-*//
+/**
+░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
+░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
+░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
+
 
 * @project_name QUEEN-SENU-MD
-* @authors Isuru Chamika & Tharusha Kavidya <https://github.com/CyberKillersTEAM>
+* @authors Isuru Chamika & Tharusha Kavindya <https://github.com/CyberKillersTEAM>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/CyberKillersTEAM/QUEEN_SENU-MD>
+* @link
+ <https://github.com/CyberKillersTEAM/QUEEN-SENU-MD>
 * @version 1.0.0
 
-© 2024 Isuru Chamika, Tharusha Kavidya. All rights reserved.
+© 2024 Isuru Chamika, Tharusha Kavindya. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
