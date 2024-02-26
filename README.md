@@ -5,7 +5,12 @@
   
 # 💃 ⦁ QUEEN SENU MD ⦁ 💃
 <div align="center">
-QUEEN SENU is simple Multi divece whatsapp bot deverloped by CyberKillers Team.
+QUEEN SENU IS SIMPLE MULTI DEVICE WHATSAPP BOT DEVERLOPED BY CYBERKILLERS TEAM.
+
+
+
+
+
 
 
 
