@@ -8,10 +8,16 @@
 QUEEN SENU is simple Multi divece whatsapp bot deverloped by CyberKillers Team.
 
 
+
+
+#
 ## FORK NOW
 
 <p align="left">
 <a href="https://github.com/CyberKillersTEAM/QUEEN-SENU-MD/fork"><img align="center" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white" alt="Fork and deploy" height="35" width="155" /></a>
+
+
+
 
 
 ## QR SCAN 
@@ -19,14 +25,24 @@ QUEEN SENU is simple Multi divece whatsapp bot deverloped by CyberKillers Team.
 [`SCAN QR CODE`](───)
 
 
+
+
+
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberKillersTEAM/QUEEN-SENU-MD)
 
 
+
+
+
 ## DEPLOY IN REPLIT
 
 <a href='https://replit.com/github.com/CyberKillersTEAM/QUEEN-SENU-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
+
+
+
+
 
 
 
