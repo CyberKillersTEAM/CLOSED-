@@ -9,7 +9,7 @@ QUEEN SENU is simple Multi divece whatsapp bot deverloped by CyberKillers Team.
 
 
 
-
+<div align="left">
 #
 ## FORK NOW
 
