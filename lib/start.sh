@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting QUEEN-SENU-MD..."
+echo "Starting Izuku-Md..."
 node lib/client.js
 done
