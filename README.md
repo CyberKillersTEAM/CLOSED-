@@ -34,7 +34,7 @@ QUEEN SENU IS SIMPLE MULTI DEVICE WHATSAPP BOT DEVERLOPED BY CYBERKILLERS TEAM.
 
 ## QR SCAN 
  
-[`SCAN QR CODE`](───)
+[`SCAN QR CODE`](https://queen-senu-qr.onrender.com)
 
 
 
