@@ -10,11 +10,18 @@ QUEEN SENU is simple Multi divece whatsapp bot deverloped by CyberKillers Team.
 
 
 <div align="left">
-#
+
+
+
+
+
+
 ## FORK NOW
 
 <p align="left">
 <a href="https://github.com/CyberKillersTEAM/QUEEN-SENU-MD/fork"><img align="center" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white" alt="Fork and deploy" height="35" width="155" /></a>
+
+
 
 
 
@@ -28,9 +35,13 @@ QUEEN SENU is simple Multi divece whatsapp bot deverloped by CyberKillers Team.
 
 
 
+
+
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberKillersTEAM/QUEEN-SENU-MD)
+
+
 
 
 
@@ -46,7 +57,10 @@ QUEEN SENU is simple Multi divece whatsapp bot deverloped by CyberKillers Team.
 
 
 
+
+
  # 💌SPECIAL THANK💌
  @Tharusha Kavindya
+
 
 ## THANKS FOR USING QUEEN SENU MD WHATSAPP BOT 😘
