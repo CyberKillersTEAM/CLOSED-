@@ -1,14 +1,14 @@
 { 
-  "name": "QUEEN-SENU-MD",
-  "description": "QUEEN SENU is simple multidevice whatsapp bot deverloped by CyberKillers Team",
-  "logo": "https://i.ibb.co/kyqXtXm/1708757084147.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "QUEEN-SENU-MD", "Queen-Senu-Md", "SENU","Queen-Senu-Bot","theme bot","multi device","baileys"],
+  "name": "KING-MD",
+  "description": "A Whatsapp md bot built By Naveed to make experience better",
+  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "MR ISURU X"
+      "value": "NAVEED DOGAR"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot.",
-     "value": "https://i.ibb.co/kyqXtXm/1708757084147.jpg"
+     "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -67,7 +67,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*QUEEN-SENU-MD*"
+	    "value": "*KING-MD*"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -80,10 +80,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94766632281"
+       "value": "92Xxxxxxxx"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to QUEEN-SENU-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -92,11 +92,11 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://isurumongo:isurumongo1@cluster0.ikguzro.mongodb.net/"
+    "value": "mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Don't Change . No Need To Change Only Avilable Queen-Senu-Md .",
-     "value": "QUEEN-SENU-MD"
+    "description": "Don't Change . No Need To Change Only Avilable King-Md .",
+     "value": "KING-MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -109,11 +109,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "ᴍͥ ʀ  ɪ ꜱͣ ᴜͫ ʀ ᴜ  x"
+    "value": "naveeddogar"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "QUEEN-SENU-MD"
+    "value": "king-mdbot"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
