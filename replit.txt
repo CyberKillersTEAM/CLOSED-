@@ -1,4 +1,4 @@
-run = "yarn && npm i pm2 --location=global && pm2 start lib/client.js --deep-monitoring --attach --name secktor"
+run = "yarn && npm i pm2 --location=global && pm2 start lib/client.js --deep-monitoring --attach --name senu"
 start = "pm2 start lib/client.js --deep-monitoring --attach --name secktor"
 entrypoint = "index.js"
 hidden = [".config", "package-lock.json"]
