@@ -1,4 +1,4 @@
-run = "pm2 start lib/client.js --deep-monitoring --attach --name QUEEN-SENU-MD"
+run = "pm2 start lib/client.js --deep-monitoring --attach --name senu"
 entrypoint = "lib/client.js"
 hidden = [".config", "package-lock.json"]
  
