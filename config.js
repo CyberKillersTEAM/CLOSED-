@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'Ｖ-1.０.0' : process.env.VERSION,
-  LANG: process.env.THEME|| 'SECKTOR-2.0',
+  LANG: process.env.THEME|| 'SENU-MD',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
